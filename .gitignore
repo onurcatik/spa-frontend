@@ -1,0 +1,65 @@
+# React Native ile ilgili dosyalar
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.expo
+.expo-shared
+*.expo
+.expo
+
+# Çıkış (build) dosyaları
+build/
+ios/build/
+android/app/build/
+android/.gradle
+android/.idea
+android/.cxx
+android/.localhistory
+
+# Xcode ve iOS ile ilgili dosyalar
+ios/Pods/
+*.xcuserdata
+*.xcworkspace
+*.lock
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Diğer geçici ve gereksiz dosyalar
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+__MACOSX
+*.swp
+*.swo
+*.pid
+*.seed
+*.tgz
+
+# Android ile ilgili dosyalar
+android/local.properties
+/android/*.iml
+/android/app/*.iml
+.android/
+
+# Test çıktıları
+coverage/
+*.lcov
+jest-html-reporter-output.html
+
+# Platform-spesifik geçici dosyalar
+*.keystore
+*.jks
+*.pem
+*.key
+
+# Yarn ve NPM cache
+.yarn/
+.pnp.*
+.cache/
