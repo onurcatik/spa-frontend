@@ -10,7 +10,7 @@ function Testimonials() {
           {/* Testimonial 1 */}
           <div className="bg-gray-100 p-6 rounded-lg shadow-md dark:bg-gray-800 flex items-center">
             <img
-              src="https://via.placeholder.com/100"
+              src="https://placehold.co/600x400"
               alt="Hasta A Logo"
               className="w-16 h-16 rounded-full mr-4"
             />
@@ -25,7 +25,7 @@ function Testimonials() {
           {/* Testimonial 2 */}
           <div className="bg-gray-100 p-6 rounded-lg shadow-md dark:bg-gray-800 flex items-center">
             <img
-              src="https://via.placeholder.com/100"
+              src="https://placehold.co/600x400"
               alt="Hasta B Logo"
               className="w-16 h-16 rounded-full mr-4"
             />
