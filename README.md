@@ -1,7 +1,7 @@
-# SPA-FRONTEND
+# Spa-frontend
 
 ## Project Description
-SPA-FRONTEND is a single-page application (SPA) developed using React with a component-based architecture and styled with Tailwind CSS.
+Spa-frontend is a single-page application (SPA) developed using React with a component-based architecture and styled with Tailwind CSS.
 
 ## Technologies Used
 - **React.js** - For building the user interface
