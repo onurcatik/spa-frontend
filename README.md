@@ -14,8 +14,8 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```sh
-git clone <repo-url>
-cd SPA-FRONTEND
+git clone https://github.com/onurcatik/spa-frontend.git
+cd spa-frontend
 ```
 
 ### 2. Install Dependencies
