@@ -18,7 +18,12 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
             className="text-white text-2xl font-bold cursor-pointer"
             onClick={() => setMenuOpen(false)}
           >
-            <img src="https://via.placeholder.com/40" alt="Company Logo" className="w-10 h-10 mr-3" />
+                   <img
+          src="/doctor.png"
+          alt="Stethoscope Icon"
+          className="w-10 h-10 mr-3 "
+        />
+
             Doktor Web Sitesi
           </ScrollLink>
         </div>
